@@ -9,6 +9,17 @@ screenshots/
    ├── working-app.png
    # AWS 3-Tier Web Application Deployment
 
+
+User
+  |
+Route 53
+  |
+ALB
+  |
+EC2 (Auto Scaling)
+  |
+RDS (Private Subnet)
+  
 ## Architecture Overview
 - Route 53
 - Public Application Load Balancer
