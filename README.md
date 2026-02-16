@@ -33,4 +33,8 @@ screenshots/
 Project successfully deployed and validated.
 Infrastructure terminated to avoid billing.
 
+## Architecture Diagram
+
+![AWS 3 Tier Architecture](architecture-diagram.png)
+
 
